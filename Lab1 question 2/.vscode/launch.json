@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - removeInRange1",
+            "request": "launch",
+            "mainClass": "removeInRange1",
+            "projectName": "Lab1_99b972e0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - removeRange",
+            "request": "launch",
+            "mainClass": "removeRange"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CUS1151__lastName_HW1",
+            "request": "launch",
+            "mainClass": "CUS1151__lastName_HW1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Grades",
+            "request": "launch",
+            "mainClass": "Grades"
+        }
+    ]
+}
