@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CUS1151__lastName_HW1",
+            "request": "launch",
+            "mainClass": "CUS1151__lastName_HW1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - grades_question1",
+            "request": "launch",
+            "mainClass": "grades_question1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Grades",
+            "request": "launch",
+            "mainClass": "Grades"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - removeInRange1",
+            "request": "launch",
+            "mainClass": "removeInRange1"
+        }
+    ]
+}
